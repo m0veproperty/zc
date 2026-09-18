@@ -1,0 +1,166 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/case-studies",
+      "destination": "/case-studies/index.html"
+    },
+    {
+      "source": "/case-studies/",
+      "destination": "/case-studies/index.html"
+    },
+    {
+      "source": "/case-studies/eco-dispo",
+      "destination": "/case-studies/eco-dispo/index.html"
+    },
+    {
+      "source": "/case-studies/eco-dispo/",
+      "destination": "/case-studies/eco-dispo/index.html"
+    },
+    {
+      "source": "/case-studies/peakst8-by-rainmatter",
+      "destination": "/case-studies/peakst8-by-rainmatter/index.html"
+    },
+    {
+      "source": "/case-studies/peakst8-by-rainmatter/",
+      "destination": "/case-studies/peakst8-by-rainmatter/index.html"
+    },
+    {
+      "source": "/case-studies/schmancy-pack",
+      "destination": "/case-studies/schmancy-pack/index.html"
+    },
+    {
+      "source": "/case-studies/schmancy-pack/",
+      "destination": "/case-studies/schmancy-pack/index.html"
+    },
+    {
+      "source": "/case-studies/swiggy",
+      "destination": "/case-studies/swiggy/index.html"
+    },
+    {
+      "source": "/case-studies/swiggy/",
+      "destination": "/case-studies/swiggy/index.html"
+    },
+    {
+      "source": "/case-studies/zomato-and-hyperpure",
+      "destination": "/case-studies/zomato-and-hyperpure/index.html"
+    },
+    {
+      "source": "/case-studies/zomato-and-hyperpure/",
+      "destination": "/case-studies/zomato-and-hyperpure/index.html"
+    },
+    {
+      "source": "/contact",
+      "destination": "/contact/index.html"
+    },
+    {
+      "source": "/contact/",
+      "destination": "/contact/index.html"
+    },
+    {
+      "source": "/pilot-form-available",
+      "destination": "/pilot-form-available/index.html"
+    },
+    {
+      "source": "/pilot-form-available/",
+      "destination": "/pilot-form-available/index.html"
+    },
+    {
+      "source": "/pilot-form-launching-soon",
+      "destination": "/pilot-form-launching-soon/index.html"
+    },
+    {
+      "source": "/pilot-form-launching-soon/",
+      "destination": "/pilot-form-launching-soon/index.html"
+    },
+    {
+      "source": "/press",
+      "destination": "/press/index.html"
+    },
+    {
+      "source": "/press/",
+      "destination": "/press/index.html"
+    },
+    {
+      "source": "/products",
+      "destination": "/products/index.html"
+    },
+    {
+      "source": "/products/",
+      "destination": "/products/index.html"
+    },
+    {
+      "source": "/products/coated-clamshell",
+      "destination": "/products/coated-clamshell/index.html"
+    },
+    {
+      "source": "/products/coated-clamshell/",
+      "destination": "/products/coated-clamshell/index.html"
+    },
+    {
+      "source": "/products/coated-food-tray",
+      "destination": "/products/coated-food-tray/index.html"
+    },
+    {
+      "source": "/products/coated-food-tray/",
+      "destination": "/products/coated-food-tray/index.html"
+    },
+    {
+      "source": "/products/enhanced-coating",
+      "destination": "/products/enhanced-coating/index.html"
+    },
+    {
+      "source": "/products/enhanced-coating/",
+      "destination": "/products/enhanced-coating/index.html"
+    },
+    {
+      "source": "/products/grease-resistant-paperboard-kraft",
+      "destination": "/products/grease-resistant-paperboard-kraft/index.html"
+    },
+    {
+      "source": "/products/grease-resistant-paperboard-kraft/",
+      "destination": "/products/grease-resistant-paperboard-kraft/index.html"
+    },
+    {
+      "source": "/products/grease-resistant-paperboard-white",
+      "destination": "/products/grease-resistant-paperboard-white/index.html"
+    },
+    {
+      "source": "/products/grease-resistant-paperboard-white/",
+      "destination": "/products/grease-resistant-paperboard-white/index.html"
+    },
+    {
+      "source": "/products/original-coating",
+      "destination": "/products/original-coating/index.html"
+    },
+    {
+      "source": "/products/original-coating/",
+      "destination": "/products/original-coating/index.html"
+    },
+    {
+      "source": "/products/snack-n-dip",
+      "destination": "/products/snack-n-dip/index.html"
+    },
+    {
+      "source": "/products/snack-n-dip/",
+      "destination": "/products/snack-n-dip/index.html"
+    },
+    {
+      "source": "/technology",
+      "destination": "/technology/index.html"
+    },
+    {
+      "source": "/technology/",
+      "destination": "/technology/index.html"
+    },
+    {
+      "source": "/vision",
+      "destination": "/vision/index.html"
+    },
+    {
+      "source": "/vision/",
+      "destination": "/vision/index.html"
+    }
+  ]
+}
